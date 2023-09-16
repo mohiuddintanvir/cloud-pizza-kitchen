@@ -1,0 +1,37 @@
+[
+    {
+        "img":"https://www.foodandwine.com/thmb/Wd4lBRZz3X_8qBr69UOu2m7I2iw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/classic-cheese-pizza-FT-RECIPE0422-31a2c938fc2546c9a07b7011658cfd05.jpg",
+        "name":"Cheese Pizza",
+        "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, molestiae consequatur consequuntur laborum numquam, dolore eaque dignissimos perferendis cum laboriosam vero. Sit nihil sapiente voluptatibus dignissimos voluptatum in fugit quisquam."
+    },
+    {
+        "img":"https://i0.wp.com/www.thursdaynightpizza.com/wp-content/uploads/2022/06/veggie-pizza-side-view-out-of-oven.png?resize=720%2C480&ssl=1",
+        "name":"Veggie Pizza",
+        "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, molestiae consequatur consequuntur laborum numquam, dolore eaque dignissimos perferendis cum laboriosam vero. Sit nihil sapiente voluptatibus dignissimos voluptatum in fugit quisquam."
+    },
+    {
+        "img":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F19%2F2014%2F07%2F10%2Fpepperoni-pizza-ck-x.jpg&q=60",
+        "name":"Pepperoni Pizza",
+        "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, molestiae consequatur consequuntur laborum numquam, dolore eaque dignissimos perferendis cum laboriosam vero. Sit nihil sapiente voluptatibus dignissimos voluptatum in fugit quisquam."
+    },
+    {
+        "img":"https://static.toiimg.com/thumb/56868564.cms?imgsize=1948751&width=800&height=800",
+        "name":"Margherita Pizza",
+        "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, molestiae consequatur consequuntur laborum numquam, dolore eaque dignissimos perferendis cum laboriosam vero. Sit nihil sapiente voluptatibus dignissimos voluptatum in fugit quisquam."
+    },
+    {
+        "img":"https://www.bacinos.com/wp-content/uploads/2021/05/27-Meat-Lovers-Pizza-Recipes.jpg",
+        "name":"Meat Pizza",
+        "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, molestiae consequatur consequuntur laborum numquam, dolore eaque dignissimos perferendis cum laboriosam vero. Sit nihil sapiente voluptatibus dignissimos voluptatum in fugit quisquam."
+    },
+    {
+        "img":"https://s23209.pcdn.co/wp-content/uploads/2021/10/BBQ-Chicken-PizzaIMG_0027.jpg",
+        "name":"BBQ Chicken Pizza",
+        "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, molestiae consequatur consequuntur laborum numquam, dolore eaque dignissimos perferendis cum laboriosam vero. Sit nihil sapiente voluptatibus dignissimos voluptatum in fugit quisquam."
+    },
+    {
+        "img":"https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2020-03/hawaiian-pizza.jpg?itok=a1-_QjRA",
+        "name":"Hawaiian Pizza",
+        "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, molestiae consequatur consequuntur laborum numquam, dolore eaque dignissimos perferendis cum laboriosam vero. Sit nihil sapiente voluptatibus dignissimos voluptatum in fugit quisquam."
+    }
+]
